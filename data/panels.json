@@ -1,0 +1,17 @@
+{
+  "panels": [{
+    "events":[{
+      "title": "NodeJS Summmit 2017",
+      "desc": "The 2017 NodeJS summit"
+    }],
+    "projects":[{
+      "title": "This Website",
+      "desc": "This site written in ReactJS and NodeJS",
+      "github": "...."
+    },{
+      "title": "KatharineDecker.com",
+      "desc": "Katie Decker's profile webpage with ReactJS and NodeJS",
+      "github": "...."
+    }]
+  }]
+}

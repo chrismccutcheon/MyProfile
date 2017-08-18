@@ -1,0 +1,90 @@
+{
+  "resume": {
+    "education":[{
+        "id": 1,
+        "title": "DeVos Sports Business Management Program",
+        "school": "University of Central Florida",
+        "location": "Orlando, Florida",
+        "degree": "Masters Degree in Business and Sports Business Management",
+        "gradDate": "December 2017"
+      },{
+        "id": 2,
+        "school": "Santa Clara University",
+        "location": "Santa Clara California",
+        "misc": "Honors: 1 of 8 students chosen to join the University Political Science Honors Society",
+        "degree": "BA Political Science",
+        "gradDate": "June 2015"
+      }],
+      "experience":[{
+        "id": 1,
+        "employer": "Orlando Magic, Orlando, FL.",
+        "title": "Premium Guest Service Representative",
+        "roles": ["Assist Premium clientele at all events at Amway Center (Orlando Magic home games, concerts, family shows)", "Assist in Premium areas by checking tickets, taking complaints, troubleshooting during the event, and ensuring Premium clientele’s needs are met throughout event.", "Assist with pre-event needs and set-up. Assist premium clientele on different levels of Amway Center throughout event. Break down post-event."],
+        "duration": "September 2016 to Present"
+      },{
+        "id": 2,
+        "employer": "DeVos Sports Business Management Program, Orlando, FL.",
+        "title": "Graduate Assistant",
+        "roles": ["Assist the office secretary,the graduate coordinator, and the director of special events for the National Consortium of Academic and Sport", "Meet with prospective students", "Aid with planning of the awards banquet for the National Consortium of Academic and Sport"],
+        "duration": "August 2016 to Present"
+      },{
+        "id": 3,
+        "employer": "Orlando Magic, Orlando, FL.",
+        "title": "Innovation Intern",
+        "roles": ["Assist with Innovation Lab operational tasks; scheduling lab sessions, setting up lab sessions and coordinating with external speakers and mentors.", "Attend Innovation Lab sessions involving various departments and outside organizations.", "Identifyingandpostingrelevantindustrymedianewsandinsights with a focus on innovation and human-centered design in sports, entertainment and media.", "Assist and help design documentation including graphical documentation to tell the story of the lab or projects in the lab."],
+        "duration": "November 2015 – July 2016"
+      }, {
+        "id": 4,
+        "employer": "GlobeIn | Palo Alto, CA.",
+        "title": "Social Media Intern",
+        "roles": ["Assisted in building GlobeIn’s social media presence on Pinterest, Twitter, Instagram, and Youtube.", "Identified ways to leverage outside resources to enhance GlobeIn’s online presence."],
+        "duration": "July 2015 – September 2015"
+      },{
+        "id": 5,
+        "employer": "Mitt Romney for President Campaign | Fredericksburg, VA.",
+        "title": "Intern",
+        "roles": ["Interned for over 200 hours.", "Provided communication assistance.", "Called constituents and went door-to-door registering and educating voters.", "Helped plan a rally for Josh Romney and for Vice Presidential hopeful Paul Ryan where 3,000 people attended", "Worked on projects in support of the staff of Virginia State Senator Bryce Reeves"],
+        "duration": "July 2015 – September 2015"
+      },{
+        "id": 6,
+        "employer": "Capitol Hill Internship: Congressman Sam Farr’s Office D-CA20 Staff | Washington D.C.",
+        "title": "Intern",
+        "roles": ["Answered constituent phone calls.", "Attended Congressional hearings and provided written summaries for the staff.","Wrote letters for Sam Farr in response to constituent mail."],
+        "duration": "July 2015 – September 2015"
+      }],
+      "volunteering":[{
+        "id": 1,
+        "duration": "October 2016 – Present",
+        "organization": "Orlando Magic Recreation Center | Orlando, FL.",
+        "roles": ["Tutored elementary school students in reading and Math.","Participated in extracurricular activities with elementary school students"]
+      },{
+        "id": 2,
+        "duration": "November 2016 – Present",
+        "organization": "Orlando Magic | Orlando, FL.",
+        "roles": ["Coalition for the Homeless","Minority Male Youth Summit","American Athletic Conference Men’s Basketball Conference Tournament", "United Health Food Drive"]
+      },{
+        "id": 3,
+        "duration": "February 2015 – June 2015",
+        "organization": "Boys and Girls Club| San Jose, CA.",
+        "roles": ["Tutored elementary school students in Math and English","Participated in extracurricular activities with elementary school students."]
+      },{
+        "id": 4,
+        "duration": "September 2008 – May 2009",
+        "organization": "Special Olympics | Washington D.C.",
+        "roles": ["Helped teach young kids with disabilities how to play soccer and ice skate"]
+      }],
+      "otherExp":[{
+        "id":1,
+        "organization": "Robert Louis Stevenson High School | Pebble Beach, CA.",
+        "title": "Assistant Junior Varsity Field Hockey Coach",
+        "duration": "August 2013 – October 2015",
+        "roles": ["Introduced new players to the game","Demonstrated drills","Helped with overall game strategy as well as organized team practices", "Served as a mentor for the girls"]
+      },{
+        "id":2,
+        "organization": "Office ofDr. Donnelle Laughlin and Dr. Tricia Markusen | Monterey, CA.",
+        "title": "Office Assistant",
+        "duration": "June 2013 – July 2013",
+        "roles": ["Worked in the front office handling a wide variety of administrative matters including the computerization of patient records."]
+      }]
+  }
+}
