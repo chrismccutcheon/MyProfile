@@ -6,8 +6,7 @@ class Resume extends Component {
     this.state = {res: null};
   }
   componentDidMount(){
-    console.log("Hello there");
-    return fetch(`/resume`,{
+    return fetch(`/auth/google`,{
       headers : {
         'Content-Type': 'application/json',
         'Accept': 'application/json'
